@@ -1,6 +1,6 @@
-# *Trabajo Final de Ingeniería de Datos - CODIGO FACILTO*
+# *Trabajo Final de Ingeniería de Datos - Código Fácilito*
 
-##  Título: Web Scraping automatizado para la Vigilancia de Competidores
+##  Título: Web Scraping Automatizado para la Vigilancia de Competidores
 
 El **web scraping** es crucial en la ingeniería de datos para monitorear a la competencia en línea. ¿Por qué es necesario?
 
@@ -45,3 +45,5 @@ El proyecto ha consistido en el desarrollo de un sistema automatizado que incluy
    - Se han adjuntado los archivos Excel con los informes o se han compartido enlaces para acceder a ellos directamente desde el correo electrónico.
 
 Este proyecto ha permitido desarrollar un sistema completo que automatiza el proceso de obtención, procesamiento, análisis y comunicación de datos, contribuyendo así a una toma de decisiones más informada y eficiente.
+
+![webscraping](https://github.com/RickyFer22/Web-Scraping-automatizado-para-la-Vigilancia-de-Competidores/assets/111261185/b99a787e-68ae-484b-a4c8-3a82b92c4784)
